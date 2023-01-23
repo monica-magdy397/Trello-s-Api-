@@ -1,0 +1,139 @@
+TRELLO REST APIs using Postman
+
+key:>
+f52a37c98f963d04bf22e14ad204872a
+
+token:>
+ATTA62d1ae6ded70e59ec81c7c860207b7f1020fff6b8666e37b40dd81baa5a334116E5AD3AD
+
+API URL:>
+GET\ https://api.trello.com/1/members/me?key=f52a37c98f963d04bf22e14ad204872a&token=ATTA62d1ae6ded70e59ec81c7c860207b7f1020fff6b8666e37b40dd81baa5a334116E5AD3AD
+
+response:>
+{
+    "id": "5e0868f9f465e12567434a4d",
+    "aaId": "5df600eeeaf5880cad0336b8",
+    "activityBlocked": false,
+    "avatarHash": "4db3f9667c8dad9d7365f15e6abe5488",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/5e0868f9f465e12567434a4d/4db3f9667c8dad9d7365f15e6abe5488",
+    "bio": "",
+    "bioData": {
+        "emoji": {}
+    },
+    "confirmed": true,
+    "fullName": "Monica Magdy",
+    "idEnterprise": null,
+    "idEnterprisesDeactivated": [],
+    "idMemberReferrer": null,
+    "idPremOrgsAdmin": [],
+    "initials": "MM",
+    "memberType": "normal",
+    "nonPublic": {},
+    "nonPublicAvailable": true,
+    "products": [],
+    "url": "https://trello.com/monicamagdy4",
+    "username": "monicamagdy4",
+    "status": "disconnected",
+    "aaBlockSyncUntil": null,
+    "aaEmail": null,
+    "aaEnrolledDate": null,
+    "avatarSource": "none",
+    "credentialsRemovedCount": 0,
+    "domainClaimed": null,
+    "email": "monicaamagdy.roshdy@gmail.com",
+    "gravatarHash": "fcf1187c13f617f74590a057f3d61ab6",
+    "idBoards": [
+        "5e0864871982b18bef43dd7c",
+        "5e4b0592fc1f04746d41753b",
+        "5e67dcebfe5fe44094e6cea3",
+        "5f5b7c533a492b48c235b096",
+        "617dbc0f110ed879be2bcd34",
+        "62c4a4bc1ea41b57b128cc4f",
+        "63cc0c2d6e0a5a012eea3db8",
+        "63cc0c3991c96302d320c377",
+        "63cc0c98785855005299d9f2",
+        "63cc0ca178f402004f8619b9",
+        "63cd2e030a77f901232a2d60"
+    ],
+    "idOrganizations": [
+        "602d7bcc26b75b260f1687df",
+        "63cc0c034e35fa00a5df5505"
+    ],
+    "idEnterprisesAdmin": [],
+    "limits": {
+        "boards": {
+            "totalPerMember": {
+                "status": "ok",
+                "disableAt": 4500,
+                "warnAt": 3600
+            }
+        },
+        "orgs": {
+            "totalPerMember": {
+                "status": "ok",
+                "disableAt": 850,
+                "warnAt": 680
+            }
+        }
+    },
+    "loginTypes": [
+        "atlassian"
+    ],
+    "marketingOptIn": {
+        "optedIn": true,
+        "date": "2019-12-29T08:51:07.164Z"
+    },
+    "messagesDismissed": [
+        {
+            "_id": "606e32a0145b7657f32ee70d",
+            "name": "team-join-cta-banner-602d7bcc26b75b260f1687df",
+            "count": 2,
+            "lastDismissed": "2021-04-07T22:30:56.706Z"
+        },
+        {
+            "_id": "606e32a02a32ee4214d749aa",
+            "name": "team-join-cta-banner-602d7bcc26b75b260f1687df",
+            "count": 1,
+            "lastDismissed": "2021-04-07T22:30:56.624Z"
+        }
+    ],
+    "oneTimeMessagesDismissed": [
+        "close-menu-of-first-board",
+        "ack-new-feature-ButlerOnBoardsV2-1619820000000",
+        "workspace-nav-enabled",
+        "workspace-nav-spotlight",
+        "nusku.views-switcher-upsell-default-open",
+        "timeline-views-switcher-new-pill",
+        "dashboard-views-switcher-new-pill",
+        "calendar-view-views-switcher-new-pill",
+        "free-trial-banner-confetti-602d7bcc26b75b260f1687df",
+        "team-table-views-switcher-new-pill",
+        "headerMemberMenuAddAccount",
+        "free-trial-banner-602d7bcc26b75b260f1687df",
+        "team-template-picker-63cc0c034e35fa00a5df5505"
+    ],
+    "prefs": {
+        "privacy": {
+            "fullName": "public",
+            "avatar": "public"
+        },
+        "sendSummaries": true,
+        "minutesBetweenSummaries": 60,
+        "minutesBeforeDeadlineToNotify": 1440,
+        "colorBlind": false,
+        "locale": "en-US"
+    },
+    "trophies": [],
+    "uploadedAvatarHash": null,
+    "uploadedAvatarUrl": null,
+    "premiumFeatures": [
+        "additionalBoardBackgrounds",
+        "additionalStickers",
+        "customBoardBackgrounds",
+        "customEmoji",
+        "customStickers",
+        "plugins"
+    ],
+    "isAaMastered": true,
+    "ixUpdate": "160"
+}
